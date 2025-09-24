@@ -1,10 +1,10 @@
 # Deepfake Detection Literature Review
 
-## Week 1 Research Plan
-- Day 1: FaceForensics++ paper analysis
-- Day 2: DFDC dataset review  
-- Day 3-4: EfficientNet approaches
-- Day 5: Technical architecture decisions
+## Research Objective
+Analyze current state-of-the-art deepfake detection methods to inform our technical implementation.
 
-## Paper 1: FaceForensics++ (In Progress)
-[Notes to be added during paper review]
+## Day 1: FaceForensics++ Analysis
+
+**Paper**: "FaceForensics++: Learning to Detect Manipulated Facial Images"
+**Authors**: Rössler et al. (2019)
+
