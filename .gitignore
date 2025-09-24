@@ -1,0 +1,14 @@
+data/datasets/*
+data/models/*.pth
+data/models/*.pkl
+*.mp4
+*.avi
+*.mov
+*.mkv
+__pycache__/
+*.pyc
+.env
+venv/
+.vscode/
+.DS_Store
+Thumbs.db
